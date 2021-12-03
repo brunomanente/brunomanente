@@ -11,7 +11,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/bruno-manente-de-souza-2539b8115/">
   <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a></a><p></p>
 
- Meu status no GitHub :chart_with_upwards_trend:
+
  <br><center>
 ![Bruno Manente GitHub Stats](https://github.com/brunomanente)
  </center></br> 
