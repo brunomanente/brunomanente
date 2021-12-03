@@ -1,16 +1,17 @@
-### Olá 👋
+<h1 align="center"> Olá! Seja bem vindo!  👨‍💻 </h1>
+<h4 align="center"> 
+	🚧 Desenvolvedor em construção...🚧
+</h4>
 
-<!--
-**brunomanente/brunomanente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<!-- Descrição do Projeto -->
+<a> Aqui compartilho um pouco do meu aprendizado como desenvolvedor, então você encontrará projetos que realizei em diferentes momentos dessa jornada. Sinta-se a vontade para explorar os repositórios e caso queira saber um pouco mais sobre mim logo abaixo está disponível. </a>
+</br><p></p>
 
-Here are some ideas to get you started:
+<a target="_blank" href="https://www.linkedin.com/in/bruno-manente-de-souza-2539b8115/">
+  <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a></a><p></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Meu status no GitHub :chart_with_upwards_trend:
+ <br><center>
+![Ezequiel Almeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequiel205&show_icons=true)
+ </center></br> 
